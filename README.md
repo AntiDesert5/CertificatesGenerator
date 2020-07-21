@@ -8,13 +8,21 @@ _Python 3_
 _Spyder o Pycharm_
 
 ## Ejecutando (Algunas imagenes fueron cambiadas o tapadas para mantener la identidad de los recursos.) ⚙️
+
 _Ejecutar el archivo de preferencia en Spyder o pycharm
+
 _"im" recive la plantilla de certificacion o reconocimiento.
+
 _![alt text](https://github.com/AntiDesert5/CertificatesGenerator/blob/master/rec.jpg)
+
 _Revisa que los nombres de la columna están bien puestos (varia según el xlsx)
+
 _Location hace referencia a el punto donde empezara a sobrescribirse los nombres, puedes ayudarte de paint para obtener las coordenadas.
+
 _Obtendras PDFs de cada persona que este en el archivo xlsx.
+
 _Resultado:
+
 _![alt text](https://github.com/AntiDesert5/CertificatesGenerator/blob/master/resultadocert.jpg)
 
 
