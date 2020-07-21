@@ -7,7 +7,7 @@ Genera certificados o constancias con un csv o xlsx
 _Python 3_
 _Spyder o Pycharm_
 
-## Ejecutando (Algunas imagenes fueron cambiadas y tapadas para mantener seguro los recursos.) ⚙️
+## Ejecutando (Algunas imagenes fueron cambiadas o tapadas para mantener la identidad de los recursos.) ⚙️
 _Ejecutar el archivo de preferencia en Spyder o pycharm
 _"im" recive la plantilla de certificacion o reconocimiento.
 _![alt text](https://github.com/AntiDesert5/CertificatesGenerator/blob/master/rec.jpg)
