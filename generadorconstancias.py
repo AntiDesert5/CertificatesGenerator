@@ -15,10 +15,10 @@ for i in name_list:
     a=a+1
     im = Image.open("rec.jpg")
     d = ImageDraw.Draw(im)
-    location = (193, 555)
-    location2 = (193, 725)
+    location = (37, 167)
+    location2 = (37, 260)
     text_color = (0, 137, 209)
-    font = ImageFont.truetype("arial.ttf", 100)
+    font = ImageFont.truetype("arial.ttf", 18)
     d.text(location, i, fill=text_color, font=font)
     d.text(location2, name_list2[a], fill=text_color, font=font)
     im.save("certificate_" + i + ".pdf")
